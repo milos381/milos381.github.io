@@ -1,11 +1,11 @@
 # Site settings
 author: Milos Popovic
-title: 
+title: Flatiron school blog
 header-img: img/home-bg.png
 email: milos_popovic@outlook.com
 copyright_name: Milos Popovic
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My road to success
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  milos381
